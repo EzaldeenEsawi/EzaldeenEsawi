@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzaldeenEsawi
-- 👀 I’m interested in data science and human genome
+- 👀 I’m interested in data science and RNAseq
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
